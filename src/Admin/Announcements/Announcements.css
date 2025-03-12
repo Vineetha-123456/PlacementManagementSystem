@@ -1,0 +1,116 @@
+
+.ann-main {
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(45deg, #8EDACA 30.34%, #aeebde 55.94%);
+    min-height: max-content;
+    border-radius: 2rem;
+    width: 100%;
+    padding: 5rem; /* Increased padding for a bigger box */
+    margin-top: 3%;
+    margin-left: -10%;
+  }
+  
+  /* Styling for the form section */
+  .aff {
+    display: flex;
+    flex-direction: row;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    justify-content: space-around;
+  }
+  
+  /* Styling for the form container */
+  .aform-main {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  /* Styling for form input fields */
+  .int1, .int2 {
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
+  
+  /* Styling for text area field */
+  .int2 {
+    resize: vertical;
+    height: 150px;
+  }
+  
+  /* Styling for each announcement */
+  .announce-main {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+    background: linear-gradient(45deg, #8EDACA 30.34%, #aeebde 55.94%);
+    min-height: max-content;
+    border-radius: 2rem;
+    margin-left: -10%;
+    width: 100%;
+    padding: 4rem;
+  }
+  
+  /* Styling for the list of announcements */
+  .ul {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+  }
+  
+  /* Styling for each announcement item */
+  .li {
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(45deg, #d8d8d8 30.34%, #dcdcdc 55.94%);
+    min-height: max-content;
+    border-radius: 2rem;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling for announcement title */
+  h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    font-size: larger;
+    margin-bottom: 10px;
+  }
+  .h1{
+    justify-content: center;
+  }
+  
+  /* Styling for input labels */
+  .ek {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Button styling */
+  .btn-ann {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .btn-ann:hover {
+    background-color: #45a049;
+  }
+  
+  /* Minor adjustments */
+  .ek1 {
+    margin-top: 15px;
+  }
+ 

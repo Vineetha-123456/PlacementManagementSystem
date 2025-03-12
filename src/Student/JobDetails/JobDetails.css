@@ -1,0 +1,18 @@
+.app-btn{
+    padding:2rem;
+    margin-top: 5%;
+    background-color: azure;
+    border-radius: 1rem;
+    margin-left: 45%;
+    min-width:max-content;
+
+}
+.app-btn:hover{
+    background-color: antiquewhite;
+} 
+.a2{
+     background-color: azure;
+     padding: 2rem;
+     margin-left: -20%;
+     border-radius: 1rem;
+}

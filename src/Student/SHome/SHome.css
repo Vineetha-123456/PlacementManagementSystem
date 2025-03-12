@@ -1,0 +1,55 @@
+/* Main container */
+.main-container {
+  font-family: Arial, sans-serif;
+  padding: 40px;
+  background-color: #f7f7f7;
+  display: flex;
+  justify-content: center; /* Center align the content horizontally */
+  align-items: center; /* Center align the content vertically */
+  height: 100vh; /* Ensure the container takes full height of the viewport */
+}
+
+/* Welcome section */
+.welcome-section {
+  background-color: #e7f3fe; /* Light blue shade */
+  color: #333;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 500px; /* Limit the width for better readability */
+  text-align: center;
+}
+
+.welcome-section h1 {
+  margin: 0;
+  font-size: 2.8em;
+  color: #007BFF; /* Slightly darker blue for the title */
+}
+
+.welcome-section p {
+  font-size: 1.1em;
+  color: #555;
+  margin: 10px 0;
+}
+
+/* Student details section */
+.student-details {
+  background-color: #fff;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.student-details h2 {
+  color: #333;
+}
+
+.student-details p {
+  font-size: 1.1em;
+}
+
+.student-details strong {
+  font-weight: bold;
+}

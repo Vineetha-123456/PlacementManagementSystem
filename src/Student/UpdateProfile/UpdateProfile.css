@@ -1,0 +1,29 @@
+.upd-main{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: max-content;
+    margin-left: -10%;
+    margin-top: 2.5%;
+    background:linear-gradient(180deg, rgba(202, 33, 33, 0.984) 30.34%, #e04242 55.94%);
+    border-radius: 2rem;
+}
+.upd-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 5%;
+    padding:5rem;
+}
+.upd-btn{
+    margin-top: 2%;
+    width: 10rem;
+    height:3rem;
+    justify-self: center;
+}
+
+.upd-h1{
+    font-size: x-large;
+    display: flex;
+    margin-top: 2%;
+}

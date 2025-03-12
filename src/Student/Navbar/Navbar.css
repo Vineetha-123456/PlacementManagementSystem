@@ -1,0 +1,175 @@
+/*.nsec
+   {
+    
+    left: 2.75rem;
+    display: flex;
+    margin-top: 15px;
+    font-family: Ubuntu;
+    align-items: center;
+    font-weight: 700;
+  }
+  .e {
+    color: rgba(142, 5, 5, 0.984);
+    font-weight: 700;
+  }
+  .nsec-txt {
+    line-break: anywhere;
+    width: 100%;
+    font-weight: 700;
+  }
+  .hom{
+  
+width: 114px;
+height: 39px;
+left: 1011px;
+top: 47px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+color: rgba(0, 0, 0, 0.7);
+text-decoration: none;
+  }
+  .Com{
+  
+width: 192px;
+height: 54px;
+left: 1111px;
+top: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+text-decoration: none;
+color: rgba(0, 0, 0, 0.7);
+
+  }
+
+  .logout{
+   
+    width: 114px;
+    height: 39px;
+    left: 1289px;
+    top: 47px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+text-decoration: none;
+color: rgba(0, 0, 0, 0.7);
+    
+  }
+  .navi{
+  
+    top:0;
+    margin-left: 0%;
+    height: 100px;
+    background: #2aa83b;
+
+
+  }
+  */
+
+  .ansec
+   {
+     display: flex;
+     justify-self:flex-start;
+      margin-left: 2.5rem;
+     font-family: Ubuntu;
+    align-items: center;
+    font-weight: 700;
+  }
+  .E {
+    color: rgba(142, 5, 5, 0.984);
+    font-weight: 700;
+  }
+  .ansec-txt {
+    line-break: anywhere;
+    
+    font-size:xx-large;
+   
+  }
+  .hom{
+    width: 114px;
+height: 39px;
+margin-top: 2rem;
+margin-left: 1.5rem;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 25px;
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+color: rgba(0, 0, 0, 0.7);
+text-decoration: none;
+  }
+  .Com{
+    width: 114px;
+    height: 39px;
+    margin-top: 2rem;
+    margin-left: 1.5rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.05em;
+    color: rgba(0, 0, 0, 0.7);
+    text-decoration: none;
+
+  }
+
+  .logout-btn{
+   
+    width: 114px;
+    height: 39px;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.05em;
+    color: rgba(0, 0, 0, 0.7);
+    background-color: white;
+    text-decoration: none;
+    border:none;
+  }
+  .links{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 5rem;
+  }
+  .navi{
+    
+    top:0;
+    margin-left: 0%;
+    height: 100px;
+    background-color: white;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-shadow: 4px black;
+
+  }

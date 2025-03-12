@@ -1,0 +1,87 @@
+.allstudents-main {
+    display: flex;
+    flex-direction: column;
+    min-height: max-content;
+    width: 90%;
+    background: #8EDACA;
+    margin-top: 5%;
+    margin-left: -5%;
+    padding: 5%;
+    border-radius: 2rem;
+  }
+  
+  .sfilters {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 2.5%;
+  }
+  
+  .stud {
+    display: flex;
+    flex-direction: column;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    margin-top: 4rem;
+    padding: 15px; /* Increase padding to add space around the content */
+    min-height: 350px; /* Increase the height to allow more content */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow for a lifted effect */
+  }
+  
+  .stud1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 1rem; /* Reduce space between rows */
+    justify-content: space-between; /* Ensure content is spaced evenly */
+  }
+  
+  p {
+    display: flex;
+    flex-direction: row;
+    margin-left: 2rem; /* Adjust to align data properly */
+    justify-content: space-between;
+    font-size: 0.95rem; /* Reduce font size to allow more content to fit */
+  }
+  
+  .sname {
+    font-weight: 500;
+  }
+  
+  .sp {
+    font-weight: 500;
+    margin-left: 0.5rem;
+  }
+  
+  input {
+    margin-left: 1.5rem;
+    padding: 4px;
+  }
+  
+  .scontact {
+    margin-left: 3.7rem;
+  }
+  
+  .viewp {
+    padding: 3px 6px; /* Reduce padding to make the button smaller */
+    background-color: #4cd0e4;
+    margin-left: 18rem;
+    height: fit-content;
+    width: 10%;
+    margin-top: 1rem; /* Keep the button aligned properly */
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.8rem; /* Reduce font size */
+  }
+  
+  
+  .viewp:hover {
+    background-color: #1ccd74; /* Hover effect for the button */
+  }
+  
+  Link {
+    color: black;
+    font-weight: 200;
+  }
+  

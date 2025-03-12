@@ -1,0 +1,209 @@
+.login-child {
+  position: absolute;
+  top: 6rem;
+  left: 0;
+  background-color: #fff;
+  width:100%;
+  height: 58rem;
+}
+.e {
+  color: rgba(142, 5, 5, 0.984);
+}
+.nsec-txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.nsec,
+.placement {
+  position: absolute;
+  left: 2.75rem;
+  display: flex;
+  font-family: Ubuntu;
+  align-items: center;
+}
+.nsec {
+  top: 1.56rem;
+  font-size: 2.5rem;
+  letter-spacing: 0.1em;
+  width: 12.19rem;
+  height: 2.25rem;
+  mix-blend-mode: normal;
+}
+.placement {
+  top: 3.81rem;
+  font-size: 1.38rem;
+  letter-spacing: 0.05em;
+  width: 9.63rem;
+}
+.signup-item {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  top: 6rem;
+  left: 0;
+  background: linear-gradient(180deg, rgba(143, 239, 201, 0.984) 30.34%, #42e0d5 85.94%);
+  width: 100%;
+  height: 150rem;
+}
+.contact,
+.home {
+  position: absolute;
+  top: 2.94rem;
+  left: 73.44rem;
+  letter-spacing: 0.03em;
+  display: flex;
+  color: rgba(0, 0, 0, 0.7);
+  align-items: center;
+  width: 7.13rem;
+  height: 2.44rem;
+ 
+}
+.home a{
+  text-decoration: none;
+}
+.contact {
+  left: 80.56rem;
+}
+
+.signup-inner {
+  position: absolute;
+  top: 10.31rem;
+  left: 49.06rem;
+  border-radius: 50px;
+  background-color: #fff;
+  box-shadow: 0 4px 60px 3px rgba(0, 0, 0, 0.25);
+  width: 38.69rem;
+  height: 130rem;
+  mix-blend-mode: normal;
+}
+.signup1
+{
+  position: relative;
+
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  margin-top: 10%;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+}
+.please-enter-your {
+  position: relative;
+ 
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+  margin-top: 2%;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 400;
+
+}
+
+
+.form-input1 {
+  position: relative;
+  margin-top:1%;
+
+  border-radius: 15px;
+  background-color: rgba(217, 217, 217, 0.6);
+  width: 28.5rem;
+  height: 2.75rem;
+}
+.form-label1{
+  display: flex;
+  flex-direction: column;
+  margin-top: 5%;
+  margin-left: 15%;
+  padding:2.5%;
+  font-size: 1.5rem;
+  font-weight: 500;
+
+}
+
+.form-button1 {
+  padding: 13px 20px;
+  background-color: #4CAF50; /* Green */
+  margin-left:48%;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;  /* This is what enables the hand cursor */
+  font-size: 16px;
+  transition: background-color 0.3s ease;
+}
+
+.form-button1:hover {
+  background-color: #45a049;  /* Darker green on hover */
+}
+
+
+.not-registered-register-container{
+  display: flex;
+  margin-left: 30%;
+}
+.register {
+  color: #1e7531;
+}
+
+
+.login-form1{
+  display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+
+}
+.cont11{
+  display: flex;
+  position : relative;
+  flex-direction: column;
+  margin-top: 35%;
+}
+.cont11 img{
+  height: 25rem;
+   width: 20rem;
+   display:flex;
+   box-shadow: 4px black;
+   
+}
+/* .text2 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 2rem;
+  font-weight: 600;
+  font-style: oblique;
+  margin-top: 10rem;
+  flex-wrap: wrap;
+} */
+.text2 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 2rem;
+  font-weight: 600;
+  font-style: oblique;
+  text-align: left; /* Align the text to the left */
+  margin-top: 50rem;
+  flex-wrap: wrap;
+  width: 100%; /* Ensure it takes up full width */
+}
+
+.skills-input input {
+  margin-bottom: 10px;
+}
+
+/* For the skills array */
+.skills-display {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.skills-display span {
+  padding: 5px 10px;
+  background-color: #f0f0f0;
+  border-radius: 20px;
+  font-size: 14px;
+  display: inline-block;
+} 

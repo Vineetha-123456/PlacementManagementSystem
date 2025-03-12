@@ -1,0 +1,177 @@
+.login-child {
+    position: absolute;
+    top: 6rem;
+    left: 0;
+    background-color: #fff;
+    width:100%;
+    height: 58rem;
+  }
+  .e {
+    color: rgba(142, 5, 5, 0.984);
+  }
+  .nsec-txt {
+    line-break: anywhere;
+    width: 100%;
+  }
+  .nsec,
+  .placement {
+    position: absolute;
+    left: 2.75rem;
+    display: flex;
+    font-family: Ubuntu;
+    align-items: center;
+  }
+  .nsec {
+    top: 1.56rem;
+    font-size: 2.5rem;
+    letter-spacing: 0.1em;
+    width: 12.19rem;
+    height: 2.25rem;
+    mix-blend-mode: normal;
+  }
+  .placement {
+    top: 4rem;
+    margin-top: 0.4rem;
+    font-size: 1.38rem;
+    letter-spacing: 0.05em;
+    width: 9.63rem;
+  }
+  .login-item {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    top: 6rem;
+    left: 0;
+    background: linear-gradient(180deg, rgba(143, 239, 201, 0.984) 30.34%, #42e0d5 85.94%);
+    width: 100%;
+    height: 60rem;
+  }
+  .home {
+    position: absolute;
+    top: 2.94rem;
+    margin-right:2px;
+    letter-spacing: 0.05em;
+    display: flex;
+    color: rgba(0, 0, 0, 0.7);
+    align-items: center;
+    width: 7.13rem;
+    height: 2.44rem;
+    
+  }
+  .home a{
+    text-decoration: none;
+    margin-right:2px;
+  }
+  .contact {
+    left: 80.56rem;
+  }
+  
+  .login-inner {
+    position: absolute;
+    top: 10.31rem;
+    left: 49.06rem;
+    border-radius: 50px;
+    background-color: #fff;
+    box-shadow: 0 4px 60px 3px rgba(0, 0, 0, 0.25);
+    width: 38.69rem;
+    height: 46.88rem;
+    mix-blend-mode: normal;
+  }
+  .login1
+  {
+    position: relative;
+
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    margin-top: 10%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+  }
+  .please-enter-your {
+    position: relative;
+    
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+    margin-top: 2%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+
+  }
+ 
+ 
+  .form-input {
+    position: relative;
+    margin-top:2.5%;
+
+    border-radius: 15px;
+    background-color: rgba(217, 217, 217, 0.6);
+    width: 28.5rem;
+    height: 3.75rem;
+  }
+  .form-label{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+    margin-left: 5%;
+    padding:2.5%;
+    font-size: 1.5rem;
+    font-weight: 500;
+
+  }
+  
+  
+  .form-button {
+    position: relative;
+    margin-top: 10%;
+    margin-left: 30%;
+    border-radius: 10px;
+    background-color: #eaf51a;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 13.94rem;
+    height: 3.75rem;
+  }
+ 
+  .not-registered-register-container{
+    display: flex;
+    margin-left: 30%;
+  }
+  .register {
+    color: #1e7531;
+  }
+ 
+ 
+
+  .login-form{
+    display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+
+  }
+  .cont1{
+    display: flex;
+    position : relative;
+    flex-direction: column;
+    margin-top: 20%;
+  }
+  .text1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 4rem;
+    font-weight: 800;
+    color:rgb(180, 68, 46);
+  }
+  .text2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2rem;
+    font-weight: 600;
+    font-style: oblique;
+    margin-top: 2rem;
+    flex-wrap: wrap;
+  }
+

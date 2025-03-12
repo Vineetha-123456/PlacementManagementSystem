@@ -1,0 +1,261 @@
+.contact-child {
+    position: absolute;
+    top: 6rem;
+    left: 0;
+    margin-left: -50rem;
+    background-color: #fff;
+    width: 100%;
+    height: 58rem;
+  }
+  .e {
+    color: #39e1d6;
+  }
+  .nsec-txt {
+    line-break: anywhere;
+    width: 100%;
+  }
+  .nsec {
+    position: absolute;
+    top: 1.56rem;
+    left: 2.75rem;
+    font-size: 2.5rem;
+    letter-spacing: 0.1em;
+    display: flex;
+    font-family: Ubuntu;
+    align-items: center;
+    width: 12.19rem;
+    height: 2.25rem;
+    mix-blend-mode: normal;
+  }
+  .span {
+    color: #5add77;
+  }
+  .placement {
+    position: absolute;
+    top: 3.81rem;
+    left: 2.75rem;
+    font-size: 1.38rem;
+    letter-spacing: 0.05em;
+    display: flex;
+    font-family: Ubuntu;
+    align-items: center;
+    width: 9.63rem;
+  }
+  .contact-item {
+    position: absolute;
+    top: 6rem;
+    left: 0;
+    background:rgb(255, 185, 80);
+    width: 100%;
+    height: 58rem;
+  }
+  .email-1-icon,
+  .paper-plane-icon {
+    position: absolute;
+    object-fit: cover;
+    mix-blend-mode: overlay;
+  }
+  .paper-plane-icon {
+    top: 10.63rem;
+    left: 2.69rem;
+    width: 8.4rem;
+    height: 8.4rem;
+    opacity: 0.8;
+  }
+  .email-1-icon {
+    top: 29.5rem;
+    left: 68.31rem;
+    width: 11.13rem;
+    height: 9.85rem;
+  }
+  .contact-inner {
+    position:absolute;
+    align-content: center;
+    top: 12rem;
+    left: 18.13rem;
+    border-radius: 50px;
+    background-color: #f9f1f6;
+    box-shadow: 0 4px 20px 3px rgba(236, 233, 233, 0);
+    width: 50.99rem;
+    height: 31rem;
+}
+.contact-us, .iconpmsacin, .need-assistancewe-are {
+  position: absolute;
+  letter-spacing: 0.05em;
+  display: flex;
+  align-items: center;
+}
+  .iconpmsacin {
+    top: 33.98rem;
+    left: 30.88rem;
+    text-decoration: underline;
+    color: inherit;
+    width: 27.25rem;
+    height: 4.63rem;
+  }
+  .contact-us,
+  .need-assistancewe-are {
+    text-align: center;
+    justify-content: center;
+  }
+  .contact-us {
+    top: 11.19rem;
+    left: 30.88rem;
+    font-size: 2.5rem;
+    font-weight: 800;
+    width: 22.81rem;
+    height: 5.06rem;
+}
+  .need-assistancewe-are {
+    top: 15.56rem;
+    left: 27.06rem;
+    font-size: 1.36rem;
+    width: 35.81rem;
+    height: 2.5rem;
+  }
+  .phone-1-1 {
+    position: absolute;
+    top: 12.13rem;
+    left: 77.25rem;
+    width: 6.88rem;
+    height: 6.88rem;
+    object-fit: cover;
+    mix-blend-mode: screen;
+  }
+  .placeholder-icon,
+  .telephone-icon {
+    position: absolute;
+    top: 22.5rem;
+    left: 27.06rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    object-fit: cover;
+  }
+  .telephone-icon {
+    top: 30.94rem;
+  }
+  .address {
+    margin: 0;
+  }
+  .div, .div1, .address-container 
+  {
+    position: absolute;
+    top: 18rem;
+    left: 30.88rem;
+    display: flex;
+    letter-spacing: 0.2px;
+    align-items: center;
+    width: 49.63rem;
+    height: 6.5rem;
+  }
+  .div, .div1 {
+      top: 23.88rem;
+      left:30.88rem;
+      width: 27.25rem;
+      height: 4.90rem;
+  }
+  .div1 {
+    top: 26.55rem;
+    left:30.88rem;
+  }
+  .network-1-icon {
+    position: absolute;
+    top: 46.44rem;
+    left: 27.06rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    object-fit: cover;
+  }
+  .wwwnsecacin {
+    position: absolute;
+    top: 30.88rem;
+    left: 30.88rem;
+    display: flex;
+
+    align-items: center;
+    width: 27.25rem;
+    height: 4.63rem;
+}
+  .fax-icon {
+    position: absolute;
+    top: 29.5rem;
+    left: 12rem;
+    width: 9.31rem;
+    height: 9.31rem;
+    object-fit: cover;
+    opacity: 0.5;
+    mix-blend-mode: normal;
+  }
+  .chat-1-icon,
+  .fax-1-icon {
+    position: absolute;
+    top: 36.31rem;
+    left: 27.06rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    object-fit: cover;
+  }
+  .chat-1-icon {
+    top: 50.81rem;
+    left: 75.94rem;
+    width: 9.23rem;
+    height: 9.23rem;
+    opacity: 0.8;
+  }
+  .chat-2-icon,
+  .gmail-1-icon {
+    position: absolute;
+    top: 41.38rem;
+    left: 27.06rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    object-fit: cover;
+  }
+  .chat-2-icon {
+    top: 50.1rem;
+    left: 4.29rem;
+    width: 8.9rem;
+    height: 8.9rem;
+    opacity: 0.8;
+  }
+
+.icon-placement-container {
+  position: relative; /* Make this element the reference for absolute positioning */
+  width: 100%;
+  height: 58rem; 
+}
+
+.home1 {
+  font-size: 1.72rem; 
+ 
+  font-weight: bold; /* Make the text bold */
+  color: #0a0a0b; /* Set the text color to a nice blue */
+  text-decoration: none; /* Remove underline from the link */
+  transition: color 0.3s ease; /* Smooth color transition on hover */
+  position: absolute; /* Position it absolutely within the icon-placement-container */
+  top: 1rem; /* Adjust the vertical distance from the top */
+  right: 3rem; /* Position it from the right side of the container */
+}
+
+.home1 a {
+  text-decoration: none; 
+  color: inherit; 
+}
+
+.home1:hover {
+  color: #0fa6e6; 
+}
+
+/* Ensure the rest of the styles are kept as they were */
+.contact1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 64rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 1.25rem;
+  color: #000;
+  font-family: Inter;
+}
+
